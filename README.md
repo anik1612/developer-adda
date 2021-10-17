@@ -1,4 +1,4 @@
-# DevConnector 2.0
+# Developer ADDA
 
 # Quick Start 🚀
 
@@ -125,7 +125,7 @@ Once merged you can push to heroku as above and your site will rebuild and be up
 
 ### Contributor
 
-Anik Sarker 
+Anik Sarker
 
 Shamim Sarker
 
